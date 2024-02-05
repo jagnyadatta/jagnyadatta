@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jagnyadatta
-- 👀 I’m interested in Coding / Programming
+- 👀 I interested in Coding / Programming
 
 <!---
 jagnyadatta/jagnyadatta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
