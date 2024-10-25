@@ -6,7 +6,7 @@ jagnyadatta/jagnyadatta is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 💫 About Me:
-🔭 I’m currently Pursuing MCA at IGIT, Sarang<br>👯 I’m Full-Stack-Java Developer<br>🤝 I’m looking for help of Professional Programmer<br>🌱 I’m currently learning Java Frameworks<br>💬 Ask me about Tech. Topics<br>⚡ Real fact Tech Industries are Layoff Their Employees
+🔭 I’m currently Pursuing MCA at IGIT, Sarang<br>👯 I’m Full-Stack Web-Developer (MERN Stack)<br>🤝 I’m looking for help of Professional Programmer<br>🌱 I’m currently learning JavaScript Frameworks<br>💬 Ask me about Tech. Topics<br>⚡ Real fact Tech Industries are Layoff Their Employees
 
 
 ## 🌐 Socials:
